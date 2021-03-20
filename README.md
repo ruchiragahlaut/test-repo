@@ -1,4 +1,4 @@
-# test-repo
+# Web Dev - Homework 1
 
 wCat is a clone of cat command available in bash but not in windows cmd.
 
